@@ -1,0 +1,1999 @@
+fileFormatVersion: 2
+guid: 7712892f824352849ab6b900aafbc51a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5413572450269203415
+    second: rpgcritterspritesheet_0
+  - first:
+      213: 5633819665589914148
+    second: rpgcritterspritesheet_1
+  - first:
+      213: -4175369937466896916
+    second: rpgcritterspritesheet_2
+  - first:
+      213: -6222361032723342987
+    second: rpgcritterspritesheet_3
+  - first:
+      213: -8058166439398257462
+    second: rpgcritterspritesheet_4
+  - first:
+      213: -5095170163037558945
+    second: rpgcritterspritesheet_5
+  - first:
+      213: 1608414426702856722
+    second: rpgcritterspritesheet_6
+  - first:
+      213: 1263763584654556394
+    second: rpgcritterspritesheet_7
+  - first:
+      213: 973555195206038886
+    second: rpgcritterspritesheet_8
+  - first:
+      213: 753033830238822903
+    second: rpgcritterspritesheet_9
+  - first:
+      213: -3591022614835729456
+    second: rpgcritterspritesheet_10
+  - first:
+      213: -4898305053304747646
+    second: rpgcritterspritesheet_11
+  - first:
+      213: 1990878509242138455
+    second: rpgcritterspritesheet_12
+  - first:
+      213: 2600789716591078638
+    second: rpgcritterspritesheet_13
+  - first:
+      213: -249755150100984424
+    second: rpgcritterspritesheet_14
+  - first:
+      213: 1046390730979114522
+    second: rpgcritterspritesheet_15
+  - first:
+      213: 8968231891649285726
+    second: rpgcritterspritesheet_16
+  - first:
+      213: -5377151383227387154
+    second: rpgcritterspritesheet_17
+  - first:
+      213: 8931215743055227342
+    second: rpgcritterspritesheet_18
+  - first:
+      213: 3937296456487256380
+    second: rpgcritterspritesheet_19
+  - first:
+      213: 6340309055905946320
+    second: rpgcritterspritesheet_20
+  - first:
+      213: 6439398024157355511
+    second: rpgcritterspritesheet_21
+  - first:
+      213: 6950701336791674627
+    second: rpgcritterspritesheet_22
+  - first:
+      213: -528693546617964166
+    second: rpgcritterspritesheet_23
+  - first:
+      213: -442601308744964329
+    second: rpgcritterspritesheet_24
+  - first:
+      213: 7066122571795348135
+    second: rpgcritterspritesheet_25
+  - first:
+      213: 4357877008890997746
+    second: rpgcritterspritesheet_26
+  - first:
+      213: 7726545677368321172
+    second: rpgcritterspritesheet_27
+  - first:
+      213: 6008134834746011630
+    second: rpgcritterspritesheet_28
+  - first:
+      213: -4382526497831084232
+    second: rpgcritterspritesheet_29
+  - first:
+      213: 4596477510875910415
+    second: rpgcritterspritesheet_30
+  - first:
+      213: -3446516180474323845
+    second: rpgcritterspritesheet_31
+  - first:
+      213: 4846900178874647411
+    second: rpgcritterspritesheet_32
+  - first:
+      213: -6561400468383476995
+    second: rpgcritterspritesheet_33
+  - first:
+      213: 573743110831778012
+    second: rpgcritterspritesheet_34
+  - first:
+      213: -4072433668941660909
+    second: rpgcritterspritesheet_35
+  - first:
+      213: -4167865973150359674
+    second: rpgcritterspritesheet_36
+  - first:
+      213: 1394737767754136407
+    second: rpgcritterspritesheet_37
+  - first:
+      213: -4892681128326480192
+    second: rpgcritterspritesheet_38
+  - first:
+      213: 8391055813481308626
+    second: rpgcritterspritesheet_39
+  - first:
+      213: 220472114606920894
+    second: rpgcritterspritesheet_40
+  - first:
+      213: 4889691549659991703
+    second: rpgcritterspritesheet_41
+  - first:
+      213: 1954210186851367905
+    second: rpgcritterspritesheet_42
+  - first:
+      213: -5561693056938294034
+    second: rpgcritterspritesheet_43
+  - first:
+      213: 4224611720887743662
+    second: rpgcritterspritesheet_44
+  - first:
+      213: 4100799576476116211
+    second: rpgcritterspritesheet_45
+  - first:
+      213: 729562514073690502
+    second: rpgcritterspritesheet_46
+  - first:
+      213: 744519177751260328
+    second: rpgcritterspritesheet_47
+  - first:
+      213: -4686827245030960407
+    second: rpgcritterspritesheet_48
+  - first:
+      213: 933746747053060723
+    second: rpgcritterspritesheet_49
+  - first:
+      213: 1417297247616225275
+    second: rpgcritterspritesheet_50
+  - first:
+      213: -7123817702194376421
+    second: rpgcritterspritesheet_51
+  - first:
+      213: -7596426792790319302
+    second: rpgcritterspritesheet_52
+  - first:
+      213: -1949648757366682400
+    second: rpgcritterspritesheet_53
+  - first:
+      213: 4152662432724606955
+    second: rpgcritterspritesheet_54
+  - first:
+      213: -3943876842774042419
+    second: rpgcritterspritesheet_55
+  - first:
+      213: 8535420970301262723
+    second: rpgcritterspritesheet_56
+  - first:
+      213: -3546763488957005761
+    second: rpgcritterspritesheet_57
+  - first:
+      213: 812685802362286000
+    second: rpgcritterspritesheet_58
+  - first:
+      213: 5926289771262969591
+    second: rpgcritterspritesheet_59
+  - first:
+      213: 7915555905996809547
+    second: rpgcritterspritesheet_60
+  - first:
+      213: 6385341475502751046
+    second: rpgcritterspritesheet_61
+  - first:
+      213: 4976604761022939934
+    second: rpgcritterspritesheet_62
+  - first:
+      213: 6683335807387492579
+    second: rpgcritterspritesheet_63
+  - first:
+      213: -3914488496195544299
+    second: rpgcritterspritesheet_64
+  - first:
+      213: -1834865283606067551
+    second: rpgcritterspritesheet_65
+  - first:
+      213: 1592595650975213114
+    second: rpgcritterspritesheet_66
+  - first:
+      213: -411796206674956425
+    second: rpgcritterspritesheet_67
+  - first:
+      213: -8560455715175724366
+    second: rpgcritterspritesheet_68
+  - first:
+      213: 6208364047644402481
+    second: rpgcritterspritesheet_69
+  - first:
+      213: 814794031082190606
+    second: rpgcritterspritesheet_70
+  - first:
+      213: -9194150875646864709
+    second: rpgcritterspritesheet_71
+  - first:
+      213: -4692167118554178743
+    second: rpgcritterspritesheet_72
+  - first:
+      213: -8311953730323936591
+    second: rpgcritterspritesheet_73
+  - first:
+      213: -8787245183229226606
+    second: rpgcritterspritesheet_74
+  - first:
+      213: -7989021184553350405
+    second: rpgcritterspritesheet_75
+  - first:
+      213: 6426559996674772709
+    second: rpgcritterspritesheet_76
+  - first:
+      213: -1238905159804653716
+    second: rpgcritterspritesheet_77
+  - first:
+      213: 2415056602092572348
+    second: rpgcritterspritesheet_78
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 25
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: rpgcritterspritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 157
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fbeeaab52e38c24e87a02ae24b9e14c
+      internalID: 5413572450269203415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgcritterspritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 157
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 825b296434b123e498abb27386f73704
+      internalID: 5633819665589914148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgcritterspritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 157
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f86cbb5ea8b527b4bb626ec09b5ae621
+      internalID: -4175369937466896916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgcritterspritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 157
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5a3fcf39f845a342990029755f6829d
+      internalID: -6222361032723342987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgcritterspritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 157
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e41906fdaca8faa49bee1feea12c32bb
+      internalID: -8058166439398257462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgcritterspritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 157
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f5d65868b527ba4683559b404af0d9f
+      internalID: -5095170163037558945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgcritterspritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 157
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 176d756b89314654f95e2f3a39798450
+      internalID: 1608414426702856722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgcritterspritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 157
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0a606f2a56be674aa99b957758a53e5
+      internalID: 1263763584654556394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgcritterspritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 157
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1355872881d25442b0a52910de25592
+      internalID: 973555195206038886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgcritterspritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 157
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dadabec9e484e464191e7a9606ae7c40
+      internalID: 753033830238822903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgcritterspritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 157
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 830b8e8c240db72428a335b89a1d90ff
+      internalID: -3591022614835729456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgcritterspritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 157
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 989b72aec71aa704a9f2103c28d3adcf
+      internalID: -4898305053304747646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgcritterspritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 131
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4348e8f9d3a36774c9f79847a9bbd6c1
+      internalID: 1990878509242138455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgcritterspritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 131
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae56b47f8765a7a4a930091f355b0bbf
+      internalID: 2600789716591078638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgcritterspritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 131
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cc74c5092f1c994c9c6af9038d98e2b
+      internalID: -249755150100984424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgcritterspritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 131
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75a9cd7cdfe261e49908f6e035cb0e6d
+      internalID: 1046390730979114522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgcritterspritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 131
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53f3d997b79011d47afcdd99e08d4765
+      internalID: 8968231891649285726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgcritterspritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 131
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e89951e9ffd9d894d935304690e1de0a
+      internalID: -5377151383227387154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgcritterspritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 131
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2031ce7a2263f0444843198d2a2e89ce
+      internalID: 8931215743055227342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgcritterspritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 131
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb22fe606173cad4795af8fdf25facef
+      internalID: 3937296456487256380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgcritterspritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 131
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aad0e8871c84ac4ea08ef55b014b1c2
+      internalID: 6340309055905946320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgcritterspritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 131
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5fc357988845c04ca8024e5dafdb637
+      internalID: 6439398024157355511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgcritterspritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 131
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b5db6702bc812e4995a9512f94aedf4
+      internalID: 6950701336791674627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgcritterspritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 131
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c06a8801b8cd7e45b5f4fc1b365f81c
+      internalID: -528693546617964166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgcritterspritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 105
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5303bc9d34151b74994a9b3d5c38bc74
+      internalID: -442601308744964329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgcritterspritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 105
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f2d88ef0053df8468688208cc4f3ffb
+      internalID: 7066122571795348135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgcritterspritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 105
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5a0ccd684bf201479be277d7e17b1d5
+      internalID: 4357877008890997746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgcritterspritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 105
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8d1dca5d2983b748ac9182620c49af0
+      internalID: 7726545677368321172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgcritterspritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 105
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f12dedc49e33dc14c99ccee232a14dc7
+      internalID: 6008134834746011630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgcritterspritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 105
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00ef851d4e77ffb4fa9358be790a8b2e
+      internalID: -4382526497831084232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgcritterspritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 105
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70f6d03d2d1df434c898cd5209d9a994
+      internalID: 4596477510875910415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgcritterspritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 105
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 382d43ca283c6434b900b71c67f0c70d
+      internalID: -3446516180474323845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgcritterspritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 105
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51b36b06098748340a386e761e9c64d6
+      internalID: 4846900178874647411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgcritterspritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 101
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d22ba8c269114a44790a8ab34af10be4
+      internalID: -6561400468383476995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgcritterspritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 101
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39549702339cef143876e9849118a2ea
+      internalID: 573743110831778012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgcritterspritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 101
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 058056dbb3581b24c9c7761fb525c255
+      internalID: -4072433668941660909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgcritterspritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 79
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b695d96e7faf9b54a9d47dfc16a4fa0f
+      internalID: -4167865973150359674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgcritterspritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 79
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd6ecb20bb4ad9146aa733c5989c38ad
+      internalID: 1394737767754136407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgcritterspritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 79
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 615585dc259b4444fb175167aa86f826
+      internalID: -4892681128326480192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgcritterspritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 79
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57de002759bf80846ad7eddb7d1fca3c
+      internalID: 8391055813481308626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgcritterspritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 79
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee5ad4c4d758b1b4e9af3711a664f843
+      internalID: 220472114606920894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgcritterspritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 79
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7ac77f23b7e2c0448c506437374f1e7
+      internalID: 4889691549659991703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgcritterspritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 79
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ffb62c6a06b0ad4eab4a7422478ea7a
+      internalID: 1954210186851367905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgcritterspritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 79
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c61c6da0db1885544a20d556f476a7ab
+      internalID: -5561693056938294034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgcritterspritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 79
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ea7e99ff81312a4f9b544d614cb44c7
+      internalID: 4224611720887743662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgcritterspritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 79
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c11e56550f3b31b408e63b552badc8c1
+      internalID: 4100799576476116211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgcritterspritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 79
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cca24f3c7dc11547afe8211f78ffefc
+      internalID: 729562514073690502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgcritterspritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 79
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 603b912182bf1674db35076a17bed777
+      internalID: 744519177751260328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgcritterspritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 53
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5264a7215b8ce44ba04ca884c366e56
+      internalID: -4686827245030960407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgcritterspritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 53
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf9339580d492dd4dba336cf0fbb90dc
+      internalID: 933746747053060723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgcritterspritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 53
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15c1a2da51a56064a807338f51ed9b56
+      internalID: 1417297247616225275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgcritterspritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 53
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91f246d67a026e440b08a9a9b0098af5
+      internalID: -7123817702194376421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgcritterspritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 53
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f282fb433cc57e84f95aba45ad664b22
+      internalID: -7596426792790319302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgcritterspritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 53
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cac0300f6ea087c4abb9895a4281fb23
+      internalID: -1949648757366682400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgcritterspritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 53
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf47de4294c9a3b4f82cf24eb325fae5
+      internalID: 4152662432724606955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgcritterspritesheet_55
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 53
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dc0ebce753254a438404ffafde1d549
+      internalID: -3943876842774042419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgcritterspritesheet_56
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 53
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b2b3349f8178c54c87b3a52e9f9c9e0
+      internalID: 8535420970301262723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgcritterspritesheet_57
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 53
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55bc068209c97024c8dc0deaab316191
+      internalID: -3546763488957005761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgcritterspritesheet_58
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 53
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 026601ebadb71f846a3a12de8a06d017
+      internalID: 812685802362286000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgcritterspritesheet_59
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 53
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ac03895362b91d42898965e702f924d
+      internalID: 5926289771262969591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgcritterspritesheet_60
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 27
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10ec33e95e404da4387c8124451bd6b4
+      internalID: 7915555905996809547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgcritterspritesheet_61
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 27
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48122269392c45543aab10a782cf43db
+      internalID: 6385341475502751046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgcritterspritesheet_62
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 27
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbb8363a9511e084690a9216234fc768
+      internalID: 4976604761022939934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgcritterspritesheet_63
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 27
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e682ad0474fefbd41a3cea0bb8f25f89
+      internalID: 6683335807387492579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgcritterspritesheet_64
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 27
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 129a387b830389541a6bfae9fb0334fd
+      internalID: -3914488496195544299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgcritterspritesheet_65
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 27
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c90d3a01589ba0942b5ab4c93a531d5f
+      internalID: -1834865283606067551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgcritterspritesheet_66
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 27
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab67ebd0f045ed24fb537befee90cc5c
+      internalID: 1592595650975213114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgcritterspritesheet_67
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 27
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8807be392ae44e84da0e681cfa263d41
+      internalID: -411796206674956425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgcritterspritesheet_68
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 27
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32a60f86af1c77b4c860a0a79aed7c15
+      internalID: -8560455715175724366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgcritterspritesheet_69
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 27
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b3587d4c3b3b7646be07fdf7cf181d7
+      internalID: 6208364047644402481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgcritterspritesheet_70
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 27
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff0531589833d814c80521c198d95c60
+      internalID: 814794031082190606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgcritterspritesheet_71
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0712f49d6eacdd4ba968f81b6ae171a
+      internalID: -9194150875646864709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgcritterspritesheet_72
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a91463893c34744381296d4066519ea
+      internalID: -4692167118554178743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgcritterspritesheet_73
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 1
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86b406cfbb353454b99fdb6545c3f8ff
+      internalID: -8311953730323936591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgcritterspritesheet_74
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 1
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5caefce2186c9149bfff1f41b0d4d95
+      internalID: -8787245183229226606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgcritterspritesheet_75
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8661158684d0154894f4b2b6df9744b
+      internalID: -7989021184553350405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgcritterspritesheet_76
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29a337d32436e1644a8c1696dd8cbe39
+      internalID: 6426559996674772709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgcritterspritesheet_77
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 1
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbcf5aac0c139084f81f7e76fcdc246c
+      internalID: -1238905159804653716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgcritterspritesheet_78
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 1
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7b1d1b991b3e0f4894c31f2f423a559
+      internalID: 2415056602092572348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
