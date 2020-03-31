@@ -11,7 +11,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{6D6F961A-12FE-5799-B99F-8EB4C42BFC2F}</ProjectGuid>
+    <ProjectGuid>{B7294690-97D2-EF0F-DC46-A356F79A4CAD}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>PackageToolsEditor</AssemblyName>
@@ -59,19 +59,19 @@
      <Compile Include="Assets\AstarPathfindingProject\PackageTools\Editor\EditorGUIx.cs" />
      <Compile Include="Assets\AstarPathfindingProject\PackageTools\Editor\EnumFlagDrawer.cs" />
  <Reference Include="UnityEditor.UI">
- <HintPath>C:/unitystuff/2d unity project/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+ <HintPath>C:/unitystuff/cs583S20_Varrasso_Wesley_Proj_02/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
  </Reference>
  <Reference Include="Unity.2D.Tilemap.Editor">
- <HintPath>C:/unitystuff/2d unity project/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll</HintPath>
+ <HintPath>C:/unitystuff/cs583S20_Varrasso_Wesley_Proj_02/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.UI">
- <HintPath>C:/unitystuff/2d unity project/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+ <HintPath>C:/unitystuff/cs583S20_Varrasso_Wesley_Proj_02/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.TestRunner">
- <HintPath>C:/unitystuff/2d unity project/Library/ScriptAssemblies/UnityEditor.TestRunner.dll</HintPath>
+ <HintPath>C:/unitystuff/cs583S20_Varrasso_Wesley_Proj_02/Library/ScriptAssemblies/UnityEditor.TestRunner.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.TestRunner">
- <HintPath>C:/unitystuff/2d unity project/Library/ScriptAssemblies/UnityEngine.TestRunner.dll</HintPath>
+ <HintPath>C:/unitystuff/cs583S20_Varrasso_Wesley_Proj_02/Library/ScriptAssemblies/UnityEngine.TestRunner.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.AIModule">
  <HintPath>C:/Program Files/Unity/Hub/Editor/2019.2.20f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -260,10 +260,10 @@
  <HintPath>C:/Program Files/Unity/Hub/Editor/2019.2.20f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll</HintPath>
  </Reference>
  <Reference Include="Pathfinding.Ionic.Zip.Reduced">
- <HintPath>C:/unitystuff/2d unity project/Assets/AstarPathfindingProject/Plugins/DotNetZip/Pathfinding.Ionic.Zip.Reduced.dll</HintPath>
+ <HintPath>C:/unitystuff/cs583S20_Varrasso_Wesley_Proj_02/Assets/AstarPathfindingProject/Plugins/DotNetZip/Pathfinding.Ionic.Zip.Reduced.dll</HintPath>
  </Reference>
  <Reference Include="nunit.framework">
- <HintPath>C:/unitystuff/2d unity project/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll</HintPath>
+ <HintPath>C:/unitystuff/cs583S20_Varrasso_Wesley_Proj_02/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll</HintPath>
  </Reference>
  <Reference Include="mscorlib">
  <HintPath>C:/Program Files/Unity/Hub/Editor/2019.2.20f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/mscorlib.dll</HintPath>
@@ -622,7 +622,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="AstarPathfindingProject.csproj">
-      <Project>{58CEE1C0-EA47-69D4-BFB8-10F4EEE1F575}</Project>
+      <Project>{99A5EDEB-5F52-35C3-31E8-574AF658B8E1}</Project>
       <Name>AstarPathfindingProject</Name>
     </ProjectReference>
   </ItemGroup>

@@ -10,13 +10,29 @@ public class PlayerMovement : MonoBehaviour
     float horizontalMove = 0f;
     bool jump = false;
     bool slash = false;
-
+    public float attackRange = .5f;
+    public Transform attackPoint;
+    public LayerMask enemyLayers;
+    public int attackDamage = 40;
+    
 // Update is called once per frame
 void Update()
     {
         animator.SetFloat("speed", Mathf.Abs(horizontalMove));
         horizontalMove = Input.GetAxisRaw("Horizontal") * runSpeed;
 
+        attack();
+
+    }
+    void FixedUpdate()
+    {
+        //move the character
+        controller.Move(horizontalMove*Time.fixedDeltaTime, false, jump);
+        
+        jump = false;
+    }
+    void attack()
+    {
         if (Input.GetButtonDown("Jump"))
         {
             jump = true;
@@ -26,18 +42,24 @@ void Update()
             slash = true;
             animator.SetBool("isAttack", slash);
         }
-        else if(Input.GetButtonUp("Vertical"))
+        else if (Input.GetButtonUp("Vertical"))
         {
             slash = false;
             animator.SetBool("isAttack", slash);
         }
-
+        //detect enemies in range
+        Collider2D[] hitEnemies = Physics2D.OverlapCircleAll(attackPoint.position,attackRange,enemyLayers);
+        // damage enemies
+        foreach(Collider2D enemy in hitEnemies)
+        {
+            enemy.GetComponent<Enemys>().TakeDamage(attackDamage);
+        }
     }
-    void FixedUpdate()
+    void OnDrawGizmosSelected()
     {
-        //move the character
-        controller.Move(horizontalMove*Time.fixedDeltaTime, false, jump);
+        if (attackPoint == null)
+            return;
         
-        jump = false;
+        Gizmos.DrawWireSphere(attackPoint.position, attackRange);
     }
 }

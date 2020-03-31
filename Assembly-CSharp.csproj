@@ -11,7 +11,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{48F3FB5F-F759-CA06-DF65-EA33CA6F5AC5}</ProjectGuid>
+    <ProjectGuid>{8DACEB08-B50C-1590-052A-051620185873}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -63,42 +63,46 @@
      <Compile Include="Assets\scripts\CharacterController2D.cs" />
      <Compile Include="Assets\scripts\EnemyAI.cs" />
      <Compile Include="Assets\scripts\EnemyGFX.cs" />
+     <Compile Include="Assets\scripts\Enemys.cs" />
+     <Compile Include="Assets\scripts\HealthBar.cs" />
+     <Compile Include="Assets\scripts\Player.cs" />
      <Compile Include="Assets\scripts\PlayerMovement.cs" />
+     <Compile Include="Assets\scripts\RestartButton.cs" />
      <Compile Include="Assets\scripts\walk.cs" />
      <None Include="Assets\Knight Files\Read Me.txt" />
      <None Include="Assets\Medieval_pixel_art_asset_FREE\pixel_snapping_README.txt" />
  <Reference Include="Unity.Timeline.Editor">
- <HintPath>C:/unitystuff/2d unity project/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+ <HintPath>C:/unitystuff/cs583S20_Varrasso_Wesley_Proj_02/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.VSCode.Editor">
- <HintPath>C:/unitystuff/2d unity project/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+ <HintPath>C:/unitystuff/cs583S20_Varrasso_Wesley_Proj_02/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro.Editor">
- <HintPath>C:/unitystuff/2d unity project/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+ <HintPath>C:/unitystuff/cs583S20_Varrasso_Wesley_Proj_02/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.UI">
- <HintPath>C:/unitystuff/2d unity project/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+ <HintPath>C:/unitystuff/cs583S20_Varrasso_Wesley_Proj_02/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Timeline">
- <HintPath>C:/unitystuff/2d unity project/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+ <HintPath>C:/unitystuff/cs583S20_Varrasso_Wesley_Proj_02/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
  </Reference>
  <Reference Include="Unity.CollabProxy.Editor">
- <HintPath>C:/unitystuff/2d unity project/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+ <HintPath>C:/unitystuff/cs583S20_Varrasso_Wesley_Proj_02/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Rider.Editor">
- <HintPath>C:/unitystuff/2d unity project/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+ <HintPath>C:/unitystuff/cs583S20_Varrasso_Wesley_Proj_02/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.2D.Sprite.Editor">
- <HintPath>C:/unitystuff/2d unity project/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll</HintPath>
+ <HintPath>C:/unitystuff/cs583S20_Varrasso_Wesley_Proj_02/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.2D.Tilemap.Editor">
- <HintPath>C:/unitystuff/2d unity project/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll</HintPath>
+ <HintPath>C:/unitystuff/cs583S20_Varrasso_Wesley_Proj_02/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro">
- <HintPath>C:/unitystuff/2d unity project/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+ <HintPath>C:/unitystuff/cs583S20_Varrasso_Wesley_Proj_02/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.UI">
- <HintPath>C:/unitystuff/2d unity project/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+ <HintPath>C:/unitystuff/cs583S20_Varrasso_Wesley_Proj_02/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.AIModule">
  <HintPath>C:/Program Files/Unity/Hub/Editor/2019.2.20f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -278,7 +282,7 @@
  <HintPath>C:/Program Files/Unity/Hub/Editor/2019.2.20f1/Editor/Data/Managed/UnityEngine/UnityEngine.XRModule.dll</HintPath>
  </Reference>
  <Reference Include="Pathfinding.Ionic.Zip.Reduced">
- <HintPath>C:/unitystuff/2d unity project/Assets/AstarPathfindingProject/Plugins/DotNetZip/Pathfinding.Ionic.Zip.Reduced.dll</HintPath>
+ <HintPath>C:/unitystuff/cs583S20_Varrasso_Wesley_Proj_02/Assets/AstarPathfindingProject/Plugins/DotNetZip/Pathfinding.Ionic.Zip.Reduced.dll</HintPath>
  </Reference>
  <Reference Include="netstandard">
  <HintPath>C:/Program Files/Unity/Hub/Editor/2019.2.20f1/Editor/Data/NetStandard/ref/2.0.0/netstandard.dll</HintPath>
@@ -628,15 +632,15 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="AstarPathfindingProject.csproj">
-      <Project>{58CEE1C0-EA47-69D4-BFB8-10F4EEE1F575}</Project>
+      <Project>{99A5EDEB-5F52-35C3-31E8-574AF658B8E1}</Project>
       <Name>AstarPathfindingProject</Name>
     </ProjectReference>
     <ProjectReference Include="PackageToolsEditor.csproj">
-      <Project>{6D6F961A-12FE-5799-B99F-8EB4C42BFC2F}</Project>
+      <Project>{B7294690-97D2-EF0F-DC46-A356F79A4CAD}</Project>
       <Name>PackageToolsEditor</Name>
     </ProjectReference>
     <ProjectReference Include="AstarPathfindingProjectEditor.csproj">
-      <Project>{EC9F3762-DEA2-B87E-B249-6D54DACACC39}</Project>
+      <Project>{4635069E-A517-BFB1-D75D-6570BAFFE8AE}</Project>
       <Name>AstarPathfindingProjectEditor</Name>
     </ProjectReference>
   </ItemGroup>
