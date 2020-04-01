@@ -41,6 +41,11 @@ public class Player : MonoBehaviour
         {
             TakeDamage(20);
         }
+        if (col.gameObject.tag.Equals("Spikes"))
+        {
+            TakeDamage(100);
+        }
+
         if (currentHealth <= 0)
         {
             animator.SetTrigger("dead");
