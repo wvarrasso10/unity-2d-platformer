@@ -4,8 +4,9 @@ using UnityEngine;
 
 public class Enemys : MonoBehaviour
 {
-    public int maxHealth = 40;
+    public int maxHealth = 100;
     int currentHealth;
+    public GameObject gameObject;
     // Start is called before the first frame update
     void Start()
     {
@@ -15,14 +16,16 @@ public class Enemys : MonoBehaviour
 
     public void TakeDamage(int damage)
     {
+        Debug.Log(damage);
         currentHealth -= damage;
         if(currentHealth <= 0)
         {
             Die();
         }
     }
-    void Die()
+    public void Die()
     {
         Debug.Log("enemy died");
+        GameObject.Destroy(gameObject);
     }
 }

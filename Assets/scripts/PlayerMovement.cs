@@ -13,7 +13,7 @@ public class PlayerMovement : MonoBehaviour
     public float attackRange = .5f;
     public Transform attackPoint;
     public LayerMask enemyLayers;
-    public int attackDamage = 40;
+    public int attackDamage = 10;
     
 // Update is called once per frame
 void Update()
@@ -52,7 +52,8 @@ void Update()
         // damage enemies
         foreach(Collider2D enemy in hitEnemies)
         {
-            enemy.GetComponent<Enemys>().TakeDamage(attackDamage);
+            if(Input.GetButtonDown("Vertical")|| Input.GetButtonUp("Vertical"))
+                enemy.GetComponent<EnemyGFX>().TakeDamage(attackDamage);
         }
     }
     void OnDrawGizmosSelected()

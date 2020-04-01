@@ -130,13 +130,13 @@ TextureImporter:
     second: rpgcritterspritesheet_41
   - first:
       213: 1954210186851367905
-    second: rpgcritterspritesheet_42
+    second: flamingSkull01
   - first:
       213: -5561693056938294034
-    second: rpgcritterspritesheet_43
+    second: flamingSkull02
   - first:
       213: 4224611720887743662
-    second: rpgcritterspritesheet_44
+    second: flamingSkull03
   - first:
       213: 4100799576476116211
     second: rpgcritterspritesheet_45
@@ -239,6 +239,18 @@ TextureImporter:
   - first:
       213: 2415056602092572348
     second: rpgcritterspritesheet_78
+  - first:
+      213: 4596601448397689301
+    second: rpgcritterspritesheet_79
+  - first:
+      213: 5103224452435864274
+    second: rpgcritterspritesheet_80
+  - first:
+      213: -2613627648585169685
+    second: rpgcritterspritesheet_81
+  - first:
+      213: 8818366788489059251
+    second: rpgcritterspritesheet_82
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -326,18 +338,18 @@ TextureImporter:
       name: rpgcritterspritesheet_0
       rect:
         serializedVersion: 2
-        x: 9
-        y: 157
-        width: 18
-        height: 26
+        x: 0
+        y: 155
+        width: 16
+        height: 27
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8fbeeaab52e38c24e87a02ae24b9e14c
+      spriteID: da13983096c53244c88b33372c733ac4
       internalID: 5413572450269203415
       vertices: []
       indices: 
@@ -347,18 +359,18 @@ TextureImporter:
       name: rpgcritterspritesheet_1
       rect:
         serializedVersion: 2
-        x: 27
-        y: 157
-        width: 18
-        height: 26
+        x: 16
+        y: 155
+        width: 16
+        height: 27
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 825b296434b123e498abb27386f73704
+      spriteID: b7b342b5d2344e44d8a182ab09b35a70
       internalID: 5633819665589914148
       vertices: []
       indices: 
@@ -368,18 +380,18 @@ TextureImporter:
       name: rpgcritterspritesheet_2
       rect:
         serializedVersion: 2
-        x: 45
-        y: 157
-        width: 18
-        height: 26
+        x: 32
+        y: 155
+        width: 16
+        height: 27
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f86cbb5ea8b527b4bb626ec09b5ae621
+      spriteID: c72b20a65fc139c42a5852ec7dd1db6c
       internalID: -4175369937466896916
       vertices: []
       indices: 
@@ -389,18 +401,18 @@ TextureImporter:
       name: rpgcritterspritesheet_3
       rect:
         serializedVersion: 2
-        x: 63
-        y: 157
-        width: 18
-        height: 26
+        x: 48
+        y: 155
+        width: 16
+        height: 27
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d5a3fcf39f845a342990029755f6829d
+      spriteID: 19e91270572b19a4ca4815ff252791b6
       internalID: -6222361032723342987
       vertices: []
       indices: 
@@ -410,18 +422,18 @@ TextureImporter:
       name: rpgcritterspritesheet_4
       rect:
         serializedVersion: 2
-        x: 81
-        y: 157
-        width: 18
-        height: 26
+        x: 64
+        y: 155
+        width: 16
+        height: 27
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e41906fdaca8faa49bee1feea12c32bb
+      spriteID: c86410dc35c2ed141bb438851a34d691
       internalID: -8058166439398257462
       vertices: []
       indices: 
@@ -431,18 +443,18 @@ TextureImporter:
       name: rpgcritterspritesheet_5
       rect:
         serializedVersion: 2
-        x: 99
-        y: 157
-        width: 18
-        height: 26
+        x: 80
+        y: 155
+        width: 16
+        height: 27
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9f5d65868b527ba4683559b404af0d9f
+      spriteID: 9e4737ff5428f5648bbb6d7b0b507571
       internalID: -5095170163037558945
       vertices: []
       indices: 
@@ -452,18 +464,18 @@ TextureImporter:
       name: rpgcritterspritesheet_6
       rect:
         serializedVersion: 2
-        x: 117
-        y: 157
-        width: 18
-        height: 26
+        x: 96
+        y: 155
+        width: 16
+        height: 27
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 176d756b89314654f95e2f3a39798450
+      spriteID: 53e7923ce149b3b4ba2dd5e2403e0d95
       internalID: 1608414426702856722
       vertices: []
       indices: 
@@ -473,18 +485,18 @@ TextureImporter:
       name: rpgcritterspritesheet_7
       rect:
         serializedVersion: 2
-        x: 135
-        y: 157
-        width: 18
-        height: 26
+        x: 112
+        y: 155
+        width: 16
+        height: 27
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f0a606f2a56be674aa99b957758a53e5
+      spriteID: d14d57a82ca728b498b5f91a1219f450
       internalID: 1263763584654556394
       vertices: []
       indices: 
@@ -494,18 +506,18 @@ TextureImporter:
       name: rpgcritterspritesheet_8
       rect:
         serializedVersion: 2
-        x: 153
-        y: 157
-        width: 18
-        height: 26
+        x: 128
+        y: 155
+        width: 16
+        height: 27
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f1355872881d25442b0a52910de25592
+      spriteID: 47f27fd5357135c4f9d455e2950710b1
       internalID: 973555195206038886
       vertices: []
       indices: 
@@ -515,18 +527,18 @@ TextureImporter:
       name: rpgcritterspritesheet_9
       rect:
         serializedVersion: 2
-        x: 171
-        y: 157
-        width: 18
-        height: 26
+        x: 144
+        y: 155
+        width: 16
+        height: 27
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: dadabec9e484e464191e7a9606ae7c40
+      spriteID: e65bf2fd6c96b0244b7236aeda815f81
       internalID: 753033830238822903
       vertices: []
       indices: 
@@ -536,18 +548,18 @@ TextureImporter:
       name: rpgcritterspritesheet_10
       rect:
         serializedVersion: 2
-        x: 189
-        y: 157
-        width: 18
-        height: 26
+        x: 160
+        y: 155
+        width: 16
+        height: 27
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 830b8e8c240db72428a335b89a1d90ff
+      spriteID: f6023a6a3f912a445aeac61dab86245f
       internalID: -3591022614835729456
       vertices: []
       indices: 
@@ -557,18 +569,18 @@ TextureImporter:
       name: rpgcritterspritesheet_11
       rect:
         serializedVersion: 2
-        x: 207
-        y: 157
-        width: 18
-        height: 26
+        x: 176
+        y: 155
+        width: 16
+        height: 27
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 989b72aec71aa704a9f2103c28d3adcf
+      spriteID: d10418bdbf3333e4ab32015a707e8815
       internalID: -4898305053304747646
       vertices: []
       indices: 
@@ -578,18 +590,18 @@ TextureImporter:
       name: rpgcritterspritesheet_12
       rect:
         serializedVersion: 2
-        x: 9
-        y: 131
-        width: 18
-        height: 26
+        x: 192
+        y: 155
+        width: 16
+        height: 27
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4348e8f9d3a36774c9f79847a9bbd6c1
+      spriteID: 5d57732fd12aa0246adad9794e8296ef
       internalID: 1990878509242138455
       vertices: []
       indices: 
@@ -599,18 +611,18 @@ TextureImporter:
       name: rpgcritterspritesheet_13
       rect:
         serializedVersion: 2
-        x: 27
-        y: 131
-        width: 18
-        height: 26
+        x: 208
+        y: 155
+        width: 16
+        height: 27
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ae56b47f8765a7a4a930091f355b0bbf
+      spriteID: 2faf161d126345b4c9b1f1aa9a799a27
       internalID: 2600789716591078638
       vertices: []
       indices: 
@@ -620,18 +632,18 @@ TextureImporter:
       name: rpgcritterspritesheet_14
       rect:
         serializedVersion: 2
-        x: 45
-        y: 131
-        width: 18
-        height: 26
+        x: 224
+        y: 155
+        width: 16
+        height: 27
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0cc74c5092f1c994c9c6af9038d98e2b
+      spriteID: 17020ee96d72a274a87b6862f283968c
       internalID: -249755150100984424
       vertices: []
       indices: 
@@ -641,18 +653,18 @@ TextureImporter:
       name: rpgcritterspritesheet_15
       rect:
         serializedVersion: 2
-        x: 63
-        y: 131
-        width: 18
-        height: 26
+        x: 0
+        y: 128
+        width: 16
+        height: 27
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 75a9cd7cdfe261e49908f6e035cb0e6d
+      spriteID: de89a6219d32e264cabc2b65cee5abc4
       internalID: 1046390730979114522
       vertices: []
       indices: 
@@ -662,18 +674,18 @@ TextureImporter:
       name: rpgcritterspritesheet_16
       rect:
         serializedVersion: 2
-        x: 81
-        y: 131
-        width: 18
-        height: 26
+        x: 16
+        y: 128
+        width: 16
+        height: 27
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 53f3d997b79011d47afcdd99e08d4765
+      spriteID: c71a401837e9eef4c8eef26497d3c80b
       internalID: 8968231891649285726
       vertices: []
       indices: 
@@ -683,18 +695,18 @@ TextureImporter:
       name: rpgcritterspritesheet_17
       rect:
         serializedVersion: 2
-        x: 99
-        y: 131
-        width: 18
-        height: 26
+        x: 32
+        y: 128
+        width: 16
+        height: 27
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e89951e9ffd9d894d935304690e1de0a
+      spriteID: 5c00a1e56024702408173d3ee535f37b
       internalID: -5377151383227387154
       vertices: []
       indices: 
@@ -704,18 +716,18 @@ TextureImporter:
       name: rpgcritterspritesheet_18
       rect:
         serializedVersion: 2
-        x: 117
-        y: 131
-        width: 18
-        height: 26
+        x: 48
+        y: 128
+        width: 16
+        height: 27
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2031ce7a2263f0444843198d2a2e89ce
+      spriteID: 115fe00f57f5b9e46821b6554a7eca67
       internalID: 8931215743055227342
       vertices: []
       indices: 
@@ -725,18 +737,18 @@ TextureImporter:
       name: rpgcritterspritesheet_19
       rect:
         serializedVersion: 2
-        x: 135
-        y: 131
-        width: 18
-        height: 26
+        x: 64
+        y: 128
+        width: 16
+        height: 27
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bb22fe606173cad4795af8fdf25facef
+      spriteID: 66f55a9d8840c09468faa44fd1cdc571
       internalID: 3937296456487256380
       vertices: []
       indices: 
@@ -746,18 +758,18 @@ TextureImporter:
       name: rpgcritterspritesheet_20
       rect:
         serializedVersion: 2
-        x: 153
-        y: 131
-        width: 18
-        height: 26
+        x: 80
+        y: 128
+        width: 16
+        height: 27
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4aad0e8871c84ac4ea08ef55b014b1c2
+      spriteID: 3ea24dd0627e0704ba48392a3c690007
       internalID: 6340309055905946320
       vertices: []
       indices: 
@@ -767,18 +779,18 @@ TextureImporter:
       name: rpgcritterspritesheet_21
       rect:
         serializedVersion: 2
-        x: 171
-        y: 131
-        width: 18
-        height: 26
+        x: 96
+        y: 128
+        width: 16
+        height: 27
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e5fc357988845c04ca8024e5dafdb637
+      spriteID: 27c5fd77e930079479001386f91224f7
       internalID: 6439398024157355511
       vertices: []
       indices: 
@@ -788,18 +800,18 @@ TextureImporter:
       name: rpgcritterspritesheet_22
       rect:
         serializedVersion: 2
-        x: 189
-        y: 131
-        width: 18
-        height: 26
+        x: 112
+        y: 128
+        width: 16
+        height: 27
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5b5db6702bc812e4995a9512f94aedf4
+      spriteID: a2d7cb7f0a3bd894eaae89f8c8bfc92e
       internalID: 6950701336791674627
       vertices: []
       indices: 
@@ -809,18 +821,18 @@ TextureImporter:
       name: rpgcritterspritesheet_23
       rect:
         serializedVersion: 2
-        x: 207
-        y: 131
-        width: 18
-        height: 26
+        x: 128
+        y: 128
+        width: 16
+        height: 27
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0c06a8801b8cd7e45b5f4fc1b365f81c
+      spriteID: 9f3c1480a3087d944ad38b73f80d29cc
       internalID: -528693546617964166
       vertices: []
       indices: 
@@ -830,18 +842,18 @@ TextureImporter:
       name: rpgcritterspritesheet_24
       rect:
         serializedVersion: 2
-        x: 9
-        y: 105
-        width: 18
-        height: 26
+        x: 144
+        y: 128
+        width: 16
+        height: 27
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5303bc9d34151b74994a9b3d5c38bc74
+      spriteID: a6a4273c32c38b246aae0988c4bfbc5d
       internalID: -442601308744964329
       vertices: []
       indices: 
@@ -851,18 +863,18 @@ TextureImporter:
       name: rpgcritterspritesheet_25
       rect:
         serializedVersion: 2
-        x: 27
-        y: 105
-        width: 18
-        height: 26
+        x: 160
+        y: 128
+        width: 16
+        height: 27
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6f2d88ef0053df8468688208cc4f3ffb
+      spriteID: 9d076edfe6fb4d24e9b901e6f2650f81
       internalID: 7066122571795348135
       vertices: []
       indices: 
@@ -872,18 +884,18 @@ TextureImporter:
       name: rpgcritterspritesheet_26
       rect:
         serializedVersion: 2
-        x: 45
-        y: 105
-        width: 18
-        height: 26
+        x: 176
+        y: 128
+        width: 16
+        height: 27
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a5a0ccd684bf201479be277d7e17b1d5
+      spriteID: a079017bb00d2ea4291f433c81e98db7
       internalID: 4357877008890997746
       vertices: []
       indices: 
@@ -893,18 +905,18 @@ TextureImporter:
       name: rpgcritterspritesheet_27
       rect:
         serializedVersion: 2
-        x: 63
-        y: 105
-        width: 18
-        height: 26
+        x: 192
+        y: 128
+        width: 16
+        height: 27
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d8d1dca5d2983b748ac9182620c49af0
+      spriteID: c2850a6c4b0ff8b468b4b6222d3709a5
       internalID: 7726545677368321172
       vertices: []
       indices: 
@@ -914,18 +926,18 @@ TextureImporter:
       name: rpgcritterspritesheet_28
       rect:
         serializedVersion: 2
-        x: 81
-        y: 105
-        width: 18
-        height: 26
+        x: 208
+        y: 128
+        width: 16
+        height: 27
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f12dedc49e33dc14c99ccee232a14dc7
+      spriteID: 9c11bcf27df4cab4292fad86d36a6fc4
       internalID: 6008134834746011630
       vertices: []
       indices: 
@@ -935,18 +947,18 @@ TextureImporter:
       name: rpgcritterspritesheet_29
       rect:
         serializedVersion: 2
-        x: 99
-        y: 105
-        width: 18
-        height: 26
+        x: 224
+        y: 128
+        width: 16
+        height: 27
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 00ef851d4e77ffb4fa9358be790a8b2e
+      spriteID: 9db4d39a80d6c4943a442a605124006b
       internalID: -4382526497831084232
       vertices: []
       indices: 
@@ -956,18 +968,18 @@ TextureImporter:
       name: rpgcritterspritesheet_30
       rect:
         serializedVersion: 2
-        x: 117
-        y: 105
-        width: 18
-        height: 26
+        x: 0
+        y: 101
+        width: 16
+        height: 27
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 70f6d03d2d1df434c898cd5209d9a994
+      spriteID: e3aa8ce4374279b4697b03e420acfd2b
       internalID: 4596477510875910415
       vertices: []
       indices: 
@@ -977,18 +989,18 @@ TextureImporter:
       name: rpgcritterspritesheet_31
       rect:
         serializedVersion: 2
-        x: 135
-        y: 105
-        width: 18
-        height: 26
+        x: 16
+        y: 101
+        width: 16
+        height: 27
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 382d43ca283c6434b900b71c67f0c70d
+      spriteID: 5a91e79c6a1d3c643a41c8acc5973f49
       internalID: -3446516180474323845
       vertices: []
       indices: 
@@ -998,18 +1010,18 @@ TextureImporter:
       name: rpgcritterspritesheet_32
       rect:
         serializedVersion: 2
-        x: 153
-        y: 105
-        width: 18
-        height: 26
+        x: 32
+        y: 101
+        width: 16
+        height: 27
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 51b36b06098748340a386e761e9c64d6
+      spriteID: de4fa99234608a34c94745918346fa5f
       internalID: 4846900178874647411
       vertices: []
       indices: 
@@ -1019,18 +1031,18 @@ TextureImporter:
       name: rpgcritterspritesheet_33
       rect:
         serializedVersion: 2
-        x: 192
+        x: 48
         y: 101
         width: 16
-        height: 26
+        height: 27
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d22ba8c269114a44790a8ab34af10be4
+      spriteID: bd4f0202377f8924dbd3d26697bc4dff
       internalID: -6561400468383476995
       vertices: []
       indices: 
@@ -1040,18 +1052,18 @@ TextureImporter:
       name: rpgcritterspritesheet_34
       rect:
         serializedVersion: 2
-        x: 208
+        x: 64
         y: 101
-        width: 15
-        height: 26
+        width: 16
+        height: 27
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 39549702339cef143876e9849118a2ea
+      spriteID: 0f4d62fa56e5ad041a4670efa373e287
       internalID: 573743110831778012
       vertices: []
       indices: 
@@ -1061,18 +1073,18 @@ TextureImporter:
       name: rpgcritterspritesheet_35
       rect:
         serializedVersion: 2
-        x: 224
+        x: 80
         y: 101
-        width: 15
-        height: 26
+        width: 16
+        height: 27
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 058056dbb3581b24c9c7761fb525c255
+      spriteID: 4f63ac6536172a042a7a546bfd3c23ed
       internalID: -4072433668941660909
       vertices: []
       indices: 
@@ -1082,18 +1094,18 @@ TextureImporter:
       name: rpgcritterspritesheet_36
       rect:
         serializedVersion: 2
-        x: 9
-        y: 79
-        width: 18
-        height: 26
+        x: 96
+        y: 101
+        width: 16
+        height: 27
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b695d96e7faf9b54a9d47dfc16a4fa0f
+      spriteID: a2da2705078a5294ead31b091f709ac0
       internalID: -4167865973150359674
       vertices: []
       indices: 
@@ -1103,18 +1115,18 @@ TextureImporter:
       name: rpgcritterspritesheet_37
       rect:
         serializedVersion: 2
-        x: 27
-        y: 79
-        width: 18
-        height: 26
+        x: 112
+        y: 101
+        width: 16
+        height: 27
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bd6ecb20bb4ad9146aa733c5989c38ad
+      spriteID: e67cf2cee46c85b43a0802e5eff7ddf5
       internalID: 1394737767754136407
       vertices: []
       indices: 
@@ -1124,18 +1136,18 @@ TextureImporter:
       name: rpgcritterspritesheet_38
       rect:
         serializedVersion: 2
-        x: 45
-        y: 79
-        width: 18
-        height: 26
+        x: 128
+        y: 101
+        width: 16
+        height: 27
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 615585dc259b4444fb175167aa86f826
+      spriteID: cfee9492cd300604299870d4c7f0dc40
       internalID: -4892681128326480192
       vertices: []
       indices: 
@@ -1145,18 +1157,18 @@ TextureImporter:
       name: rpgcritterspritesheet_39
       rect:
         serializedVersion: 2
-        x: 63
-        y: 79
-        width: 18
-        height: 26
+        x: 144
+        y: 101
+        width: 16
+        height: 27
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 57de002759bf80846ad7eddb7d1fca3c
+      spriteID: e19254805524c2b4bade387df1d3a593
       internalID: 8391055813481308626
       vertices: []
       indices: 
@@ -1166,18 +1178,18 @@ TextureImporter:
       name: rpgcritterspritesheet_40
       rect:
         serializedVersion: 2
-        x: 81
-        y: 79
-        width: 18
-        height: 26
+        x: 160
+        y: 101
+        width: 16
+        height: 27
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ee5ad4c4d758b1b4e9af3711a664f843
+      spriteID: 8a92d0dac4f46e846be1c99cd7c8a828
       internalID: 220472114606920894
       vertices: []
       indices: 
@@ -1187,81 +1199,81 @@ TextureImporter:
       name: rpgcritterspritesheet_41
       rect:
         serializedVersion: 2
-        x: 99
-        y: 79
-        width: 18
-        height: 26
+        x: 176
+        y: 101
+        width: 16
+        height: 27
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b7ac77f23b7e2c0448c506437374f1e7
+      spriteID: 31795522919fda34db3bf4624119c724
       internalID: 4889691549659991703
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: rpgcritterspritesheet_42
+      name: flamingSkull01
       rect:
         serializedVersion: 2
-        x: 117
-        y: 79
-        width: 18
-        height: 26
+        x: 192
+        y: 101
+        width: 16
+        height: 27
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4ffb62c6a06b0ad4eab4a7422478ea7a
+      spriteID: 1c602c724bff73b449f504b36ab874bc
       internalID: 1954210186851367905
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: rpgcritterspritesheet_43
+      name: flamingSkull02
       rect:
         serializedVersion: 2
-        x: 135
-        y: 79
-        width: 18
-        height: 26
+        x: 208
+        y: 101
+        width: 16
+        height: 27
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c61c6da0db1885544a20d556f476a7ab
+      spriteID: 702e9b8042c367d4a9ccb4b4594dd858
       internalID: -5561693056938294034
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: rpgcritterspritesheet_44
+      name: flamingSkull03
       rect:
         serializedVersion: 2
-        x: 153
-        y: 79
-        width: 18
-        height: 26
+        x: 224
+        y: 101
+        width: 16
+        height: 27
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0ea7e99ff81312a4f9b544d614cb44c7
+      spriteID: cf876c48207e48a409c5ddc729e6a503
       internalID: 4224611720887743662
       vertices: []
       indices: 
@@ -1271,18 +1283,18 @@ TextureImporter:
       name: rpgcritterspritesheet_45
       rect:
         serializedVersion: 2
-        x: 171
-        y: 79
-        width: 18
-        height: 26
+        x: 0
+        y: 74
+        width: 16
+        height: 27
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c11e56550f3b31b408e63b552badc8c1
+      spriteID: c80cd076500fc8c49b10b7ad80fbc295
       internalID: 4100799576476116211
       vertices: []
       indices: 
@@ -1292,18 +1304,18 @@ TextureImporter:
       name: rpgcritterspritesheet_46
       rect:
         serializedVersion: 2
-        x: 189
-        y: 79
-        width: 18
-        height: 26
+        x: 16
+        y: 74
+        width: 16
+        height: 27
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7cca24f3c7dc11547afe8211f78ffefc
+      spriteID: 293a2799be3982e43844a5787e971a6b
       internalID: 729562514073690502
       vertices: []
       indices: 
@@ -1313,18 +1325,18 @@ TextureImporter:
       name: rpgcritterspritesheet_47
       rect:
         serializedVersion: 2
-        x: 207
-        y: 79
-        width: 18
-        height: 26
+        x: 32
+        y: 74
+        width: 16
+        height: 27
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 603b912182bf1674db35076a17bed777
+      spriteID: 843d9bc5ecc0f7541bb5d2d216ce8d8a
       internalID: 744519177751260328
       vertices: []
       indices: 
@@ -1334,18 +1346,18 @@ TextureImporter:
       name: rpgcritterspritesheet_48
       rect:
         serializedVersion: 2
-        x: 9
-        y: 53
-        width: 18
-        height: 26
+        x: 48
+        y: 74
+        width: 16
+        height: 27
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a5264a7215b8ce44ba04ca884c366e56
+      spriteID: 600124381adda8b4fae8372ce65a2865
       internalID: -4686827245030960407
       vertices: []
       indices: 
@@ -1355,18 +1367,18 @@ TextureImporter:
       name: rpgcritterspritesheet_49
       rect:
         serializedVersion: 2
-        x: 27
-        y: 53
-        width: 18
-        height: 26
+        x: 64
+        y: 74
+        width: 16
+        height: 27
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cf9339580d492dd4dba336cf0fbb90dc
+      spriteID: 7283340640a6e444a90c47e9542c2f19
       internalID: 933746747053060723
       vertices: []
       indices: 
@@ -1376,18 +1388,18 @@ TextureImporter:
       name: rpgcritterspritesheet_50
       rect:
         serializedVersion: 2
-        x: 45
-        y: 53
-        width: 18
-        height: 26
+        x: 80
+        y: 74
+        width: 16
+        height: 27
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 15c1a2da51a56064a807338f51ed9b56
+      spriteID: 52c062c6489258d41bc3eebc5eea93f1
       internalID: 1417297247616225275
       vertices: []
       indices: 
@@ -1397,18 +1409,18 @@ TextureImporter:
       name: rpgcritterspritesheet_51
       rect:
         serializedVersion: 2
-        x: 63
-        y: 53
-        width: 18
-        height: 26
+        x: 96
+        y: 74
+        width: 16
+        height: 27
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 91f246d67a026e440b08a9a9b0098af5
+      spriteID: 08452e12f0c721942b5f67338a4b5505
       internalID: -7123817702194376421
       vertices: []
       indices: 
@@ -1418,18 +1430,18 @@ TextureImporter:
       name: rpgcritterspritesheet_52
       rect:
         serializedVersion: 2
-        x: 81
-        y: 53
-        width: 18
-        height: 26
+        x: 112
+        y: 74
+        width: 16
+        height: 27
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f282fb433cc57e84f95aba45ad664b22
+      spriteID: 5df02f2836519a644bd423e06e832ce9
       internalID: -7596426792790319302
       vertices: []
       indices: 
@@ -1439,18 +1451,18 @@ TextureImporter:
       name: rpgcritterspritesheet_53
       rect:
         serializedVersion: 2
-        x: 99
-        y: 53
-        width: 18
-        height: 26
+        x: 128
+        y: 74
+        width: 16
+        height: 27
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cac0300f6ea087c4abb9895a4281fb23
+      spriteID: f77943331b7a2bc42b295a80d9316856
       internalID: -1949648757366682400
       vertices: []
       indices: 
@@ -1460,18 +1472,18 @@ TextureImporter:
       name: rpgcritterspritesheet_54
       rect:
         serializedVersion: 2
-        x: 117
-        y: 53
-        width: 18
-        height: 26
+        x: 144
+        y: 74
+        width: 16
+        height: 27
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cf47de4294c9a3b4f82cf24eb325fae5
+      spriteID: f3b3ca01b059cc9468492cc1accf56a6
       internalID: 4152662432724606955
       vertices: []
       indices: 
@@ -1481,18 +1493,18 @@ TextureImporter:
       name: rpgcritterspritesheet_55
       rect:
         serializedVersion: 2
-        x: 135
-        y: 53
-        width: 18
-        height: 26
+        x: 160
+        y: 74
+        width: 16
+        height: 27
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7dc0ebce753254a438404ffafde1d549
+      spriteID: 3f7d1302e82a5c44c87ca2dedba2d621
       internalID: -3943876842774042419
       vertices: []
       indices: 
@@ -1502,18 +1514,18 @@ TextureImporter:
       name: rpgcritterspritesheet_56
       rect:
         serializedVersion: 2
-        x: 153
-        y: 53
-        width: 18
-        height: 26
+        x: 176
+        y: 74
+        width: 16
+        height: 27
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0b2b3349f8178c54c87b3a52e9f9c9e0
+      spriteID: 3f9f561e9a858d5489b61d12a8e63bb1
       internalID: 8535420970301262723
       vertices: []
       indices: 
@@ -1523,18 +1535,18 @@ TextureImporter:
       name: rpgcritterspritesheet_57
       rect:
         serializedVersion: 2
-        x: 171
-        y: 53
-        width: 18
-        height: 26
+        x: 192
+        y: 74
+        width: 16
+        height: 27
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 55bc068209c97024c8dc0deaab316191
+      spriteID: d6a078d45b08cb14cb7da02191876f25
       internalID: -3546763488957005761
       vertices: []
       indices: 
@@ -1544,18 +1556,18 @@ TextureImporter:
       name: rpgcritterspritesheet_58
       rect:
         serializedVersion: 2
-        x: 189
-        y: 53
-        width: 18
-        height: 26
+        x: 208
+        y: 74
+        width: 16
+        height: 27
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 026601ebadb71f846a3a12de8a06d017
+      spriteID: 006d717e4cca069449471c2edee5adce
       internalID: 812685802362286000
       vertices: []
       indices: 
@@ -1565,18 +1577,18 @@ TextureImporter:
       name: rpgcritterspritesheet_59
       rect:
         serializedVersion: 2
-        x: 207
-        y: 53
-        width: 18
-        height: 26
+        x: 224
+        y: 74
+        width: 16
+        height: 27
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9ac03895362b91d42898965e702f924d
+      spriteID: f6a57f67083b4824a9b211a6e2f87b3f
       internalID: 5926289771262969591
       vertices: []
       indices: 
@@ -1586,18 +1598,18 @@ TextureImporter:
       name: rpgcritterspritesheet_60
       rect:
         serializedVersion: 2
-        x: 9
-        y: 27
-        width: 18
-        height: 26
+        x: 0
+        y: 47
+        width: 16
+        height: 27
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 10ec33e95e404da4387c8124451bd6b4
+      spriteID: b3815996489ccc141abffdec0e1cc1b2
       internalID: 7915555905996809547
       vertices: []
       indices: 
@@ -1607,18 +1619,18 @@ TextureImporter:
       name: rpgcritterspritesheet_61
       rect:
         serializedVersion: 2
-        x: 27
-        y: 27
-        width: 18
-        height: 26
+        x: 16
+        y: 47
+        width: 16
+        height: 27
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 48122269392c45543aab10a782cf43db
+      spriteID: bd958ade71d6aea44a7e57d41196a1e1
       internalID: 6385341475502751046
       vertices: []
       indices: 
@@ -1628,18 +1640,18 @@ TextureImporter:
       name: rpgcritterspritesheet_62
       rect:
         serializedVersion: 2
-        x: 45
-        y: 27
-        width: 18
-        height: 26
+        x: 32
+        y: 47
+        width: 16
+        height: 27
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cbb8363a9511e084690a9216234fc768
+      spriteID: 4b7ff804c60c00f4ea1b43e5b7860b60
       internalID: 4976604761022939934
       vertices: []
       indices: 
@@ -1649,18 +1661,18 @@ TextureImporter:
       name: rpgcritterspritesheet_63
       rect:
         serializedVersion: 2
-        x: 63
-        y: 27
-        width: 18
-        height: 26
+        x: 48
+        y: 47
+        width: 16
+        height: 27
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e682ad0474fefbd41a3cea0bb8f25f89
+      spriteID: 378d5ed9b805fb64782baf1228fa7480
       internalID: 6683335807387492579
       vertices: []
       indices: 
@@ -1670,18 +1682,18 @@ TextureImporter:
       name: rpgcritterspritesheet_64
       rect:
         serializedVersion: 2
-        x: 81
-        y: 27
-        width: 18
-        height: 26
+        x: 64
+        y: 47
+        width: 16
+        height: 27
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 129a387b830389541a6bfae9fb0334fd
+      spriteID: e07337a13f491b04f96e0573538bea0d
       internalID: -3914488496195544299
       vertices: []
       indices: 
@@ -1691,18 +1703,18 @@ TextureImporter:
       name: rpgcritterspritesheet_65
       rect:
         serializedVersion: 2
-        x: 99
-        y: 27
-        width: 18
-        height: 26
+        x: 80
+        y: 47
+        width: 16
+        height: 27
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c90d3a01589ba0942b5ab4c93a531d5f
+      spriteID: bf7b07a6fa10fb246b1e32acbd45238c
       internalID: -1834865283606067551
       vertices: []
       indices: 
@@ -1712,18 +1724,18 @@ TextureImporter:
       name: rpgcritterspritesheet_66
       rect:
         serializedVersion: 2
-        x: 117
-        y: 27
-        width: 18
-        height: 26
+        x: 96
+        y: 47
+        width: 16
+        height: 27
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ab67ebd0f045ed24fb537befee90cc5c
+      spriteID: 22e16d4b17421f14aa39d78092832493
       internalID: 1592595650975213114
       vertices: []
       indices: 
@@ -1733,18 +1745,18 @@ TextureImporter:
       name: rpgcritterspritesheet_67
       rect:
         serializedVersion: 2
-        x: 135
-        y: 27
-        width: 18
-        height: 26
+        x: 112
+        y: 47
+        width: 16
+        height: 27
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8807be392ae44e84da0e681cfa263d41
+      spriteID: b987e10c0f1cd864496e2318e2537e3d
       internalID: -411796206674956425
       vertices: []
       indices: 
@@ -1754,18 +1766,18 @@ TextureImporter:
       name: rpgcritterspritesheet_68
       rect:
         serializedVersion: 2
-        x: 153
-        y: 27
-        width: 18
-        height: 26
+        x: 128
+        y: 47
+        width: 16
+        height: 27
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 32a60f86af1c77b4c860a0a79aed7c15
+      spriteID: 48f1947fc27dc5d4985d9bd1b3cb5b0d
       internalID: -8560455715175724366
       vertices: []
       indices: 
@@ -1775,18 +1787,18 @@ TextureImporter:
       name: rpgcritterspritesheet_69
       rect:
         serializedVersion: 2
-        x: 171
-        y: 27
-        width: 18
-        height: 26
+        x: 144
+        y: 47
+        width: 16
+        height: 27
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4b3587d4c3b3b7646be07fdf7cf181d7
+      spriteID: f5399d3371127684c9d7d2de434a4feb
       internalID: 6208364047644402481
       vertices: []
       indices: 
@@ -1796,18 +1808,18 @@ TextureImporter:
       name: rpgcritterspritesheet_70
       rect:
         serializedVersion: 2
-        x: 189
-        y: 27
-        width: 18
-        height: 26
+        x: 160
+        y: 47
+        width: 16
+        height: 27
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ff0531589833d814c80521c198d95c60
+      spriteID: 8314975b6211b65469c2f8af209f9f66
       internalID: 814794031082190606
       vertices: []
       indices: 
@@ -1817,18 +1829,18 @@ TextureImporter:
       name: rpgcritterspritesheet_71
       rect:
         serializedVersion: 2
-        x: 9
-        y: 1
-        width: 18
-        height: 26
+        x: 176
+        y: 47
+        width: 16
+        height: 27
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c0712f49d6eacdd4ba968f81b6ae171a
+      spriteID: 2d0a05647589f454296b7af1baf3562b
       internalID: -9194150875646864709
       vertices: []
       indices: 
@@ -1838,18 +1850,18 @@ TextureImporter:
       name: rpgcritterspritesheet_72
       rect:
         serializedVersion: 2
-        x: 27
-        y: 1
-        width: 18
-        height: 26
+        x: 192
+        y: 47
+        width: 16
+        height: 27
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0a91463893c34744381296d4066519ea
+      spriteID: 344b2ba8c8ca4c24798acbadb51101a6
       internalID: -4692167118554178743
       vertices: []
       indices: 
@@ -1859,18 +1871,18 @@ TextureImporter:
       name: rpgcritterspritesheet_73
       rect:
         serializedVersion: 2
-        x: 45
-        y: 1
-        width: 18
-        height: 26
+        x: 224
+        y: 47
+        width: 16
+        height: 27
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 86b406cfbb353454b99fdb6545c3f8ff
+      spriteID: c533bbf9b90989e489a607ae328bec76
       internalID: -8311953730323936591
       vertices: []
       indices: 
@@ -1880,18 +1892,18 @@ TextureImporter:
       name: rpgcritterspritesheet_74
       rect:
         serializedVersion: 2
-        x: 63
-        y: 1
-        width: 18
-        height: 26
+        x: 0
+        y: 20
+        width: 16
+        height: 27
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a5caefce2186c9149bfff1f41b0d4d95
+      spriteID: cda47a2dc5322cb428b553cd40e23f39
       internalID: -8787245183229226606
       vertices: []
       indices: 
@@ -1901,18 +1913,18 @@ TextureImporter:
       name: rpgcritterspritesheet_75
       rect:
         serializedVersion: 2
-        x: 81
-        y: 1
-        width: 18
-        height: 26
+        x: 16
+        y: 20
+        width: 16
+        height: 27
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c8661158684d0154894f4b2b6df9744b
+      spriteID: e74b0b251e35aab40ba4388b43bfbd33
       internalID: -7989021184553350405
       vertices: []
       indices: 
@@ -1922,18 +1934,18 @@ TextureImporter:
       name: rpgcritterspritesheet_76
       rect:
         serializedVersion: 2
-        x: 99
-        y: 1
-        width: 18
-        height: 26
+        x: 32
+        y: 20
+        width: 16
+        height: 27
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 29a337d32436e1644a8c1696dd8cbe39
+      spriteID: f285964cdbce9324e8f2ba582e54a579
       internalID: 6426559996674772709
       vertices: []
       indices: 
@@ -1943,18 +1955,18 @@ TextureImporter:
       name: rpgcritterspritesheet_77
       rect:
         serializedVersion: 2
-        x: 117
-        y: 1
-        width: 18
-        height: 26
+        x: 48
+        y: 20
+        width: 16
+        height: 27
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cbcf5aac0c139084f81f7e76fcdc246c
+      spriteID: 323bf1158aef91b47ba5589ef0884cac
       internalID: -1238905159804653716
       vertices: []
       indices: 
@@ -1964,19 +1976,103 @@ TextureImporter:
       name: rpgcritterspritesheet_78
       rect:
         serializedVersion: 2
-        x: 189
-        y: 1
-        width: 18
-        height: 26
+        x: 64
+        y: 20
+        width: 16
+        height: 27
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d7b1d1b991b3e0f4894c31f2f423a559
+      spriteID: d9751b991328edd4b824a0ab6eb5740c
       internalID: 2415056602092572348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgcritterspritesheet_79
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 20
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aacda559af73114dbd4e7b1426dc23b
+      internalID: 4596601448397689301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgcritterspritesheet_80
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 20
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 990ef1f3f8592d048a40fd2c087828e8
+      internalID: 5103224452435864274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgcritterspritesheet_81
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 20
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0961e62ea24599f4582ecfc49b501dbf
+      internalID: -2613627648585169685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpgcritterspritesheet_82
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 20
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99bd0f9bf70c85348ba0d3721d6e94fe
+      internalID: 8818366788489059251
       vertices: []
       indices: 
       edges: []
