@@ -6,6 +6,7 @@ public class PlayerMovement : MonoBehaviour
 {
     public CharacterController2D controller;
     public Animator animator;
+    
     public float runSpeed = 40f;
     float horizontalMove = 0f;
     bool jump = false;
@@ -48,12 +49,19 @@ void Update()
             animator.SetBool("isAttack", slash);
         }
         //detect enemies in range
-        Collider2D[] hitEnemies = Physics2D.OverlapCircleAll(attackPoint.position,attackRange,enemyLayers);
+        Collider2D[] hitEnemies = Physics2D.OverlapCircleAll(attackPoint.position, attackRange, enemyLayers);
         // damage enemies
-        foreach(Collider2D enemy in hitEnemies)
+        foreach (Collider2D enemy in hitEnemies)
         {
-            if(Input.GetButtonDown("Vertical")|| Input.GetButtonUp("Vertical"))
-                enemy.GetComponent<EnemyGFX>().TakeDamage(attackDamage);
+            if (Input.GetButtonDown("Vertical") || Input.GetButtonUp("Vertical"))
+            {
+                if (enemy.gameObject.tag.Equals("FlamingSkull"))
+                    enemy.GetComponent<EnemyGFX>().TakeDamage(attackDamage);
+
+                if (enemy.gameObject.tag.Equals("Goblin"))
+                    enemy.GetComponent<goblin>().TakeDamage(attackDamage);
+
+            }
         }
     }
     void OnDrawGizmosSelected()

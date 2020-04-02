@@ -9,7 +9,7 @@ public class Player : MonoBehaviour
     public int currentHealth;
     public HealthBar healthBar;
     public bool dead;
-    public GameObject gameOverText, restartButton, camera;
+    public GameObject gameOverText, restartButton;
     // Start is called before the first frame update
     void Start()
     {
@@ -21,15 +21,7 @@ public class Player : MonoBehaviour
         restartButton.SetActive(false);
 
     }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
-        
-        
-        
-    }
+    
     void TakeDamage(int damage)
     {
         currentHealth -= damage;
@@ -37,7 +29,11 @@ public class Player : MonoBehaviour
     }
     void OnCollisionEnter2D(Collision2D col)
     {
-        if (col.gameObject.tag.Equals("Enemy"))
+        if (col.gameObject.tag.Equals("FlamingSkull"))
+        {
+            TakeDamage(10);
+        }
+        if (col.gameObject.tag.Equals("Goblin"))
         {
             TakeDamage(20);
         }

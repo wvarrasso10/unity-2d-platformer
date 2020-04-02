@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using Pathfinding;
+
 public class goblin : MonoBehaviour
 {
     public AIPath aiPath;
