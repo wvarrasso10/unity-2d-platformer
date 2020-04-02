@@ -55,11 +55,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Low_Swordman\Demo\Scripts\CameraController.cs" />
-     <Compile Include="Assets\Low_Swordman\Demo\Scripts\Demo_GM.cs" />
-     <Compile Include="Assets\Low_Swordman\Demo\Scripts\GroundSensor.cs" />
-     <Compile Include="Assets\Low_Swordman\Demo\Scripts\PlayerController.cs" />
-     <Compile Include="Assets\Low_Swordman\Demo\Scripts\Swordman.cs" />
      <Compile Include="Assets\scripts\CharacterController2D.cs" />
      <Compile Include="Assets\scripts\EnemyAI.cs" />
      <Compile Include="Assets\scripts\EnemyGFX.cs" />
@@ -71,6 +66,7 @@
      <Compile Include="Assets\scripts\PlayerMovement.cs" />
      <Compile Include="Assets\scripts\QuitButton.cs" />
      <Compile Include="Assets\scripts\RestartButton.cs" />
+     <Compile Include="Assets\scripts\SoundManger.cs" />
      <Compile Include="Assets\scripts\Spikes.cs" />
      <None Include="Assets\Knight Files\Read Me.txt" />
      <None Include="Assets\Medieval_pixel_art_asset_FREE\pixel_snapping_README.txt" />
