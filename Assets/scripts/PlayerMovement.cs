@@ -62,7 +62,6 @@ void Update()
                     enemy.GetComponent<goblin>().TakeDamage(attackDamage);
 
                 if (enemy.gameObject.tag.Equals("Boss"))
-                    Debug.Log("here");
                     enemy.GetComponent<Boss>().TakeDamage(attackDamage);
             }
         }
