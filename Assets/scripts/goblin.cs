@@ -10,7 +10,10 @@ public class goblin : MonoBehaviour
     public int maxHealth = 100;
     int currentHealth;
     public GameObject enemy;
-    bool walk;
+    bool walk ;
+    public bool drops;
+    public GameObject theDrop; 
+
     // Start is called before the first frame update
     void Start()
     {
@@ -20,7 +23,7 @@ public class goblin : MonoBehaviour
 
     public void TakeDamage(int damage)
     {
-        Debug.Log(damage);
+        
         currentHealth -= damage;
         if (currentHealth <= 0)
         {
@@ -31,6 +34,7 @@ public class goblin : MonoBehaviour
     {
         
         GameObject.Destroy(enemy);
+        if (drops) Instantiate(theDrop, transform.position, transform.rotation);
     }
     // Update is called once per frame
     void Update()

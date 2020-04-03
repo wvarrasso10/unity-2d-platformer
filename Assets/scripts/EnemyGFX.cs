@@ -8,7 +8,7 @@ public class EnemyGFX : MonoBehaviour
     public AIPath aiPath;
     public int maxHealth = 100;
     int currentHealth;
-    public GameObject enemy;
+    public GameObject enemy , heart;
     // Start is called before the first frame update
     void Start()
     {
@@ -27,7 +27,6 @@ public class EnemyGFX : MonoBehaviour
     }
     public void Die()
     {
-        Debug.Log("enemy died");
         GameObject.Destroy(enemy);
     }
     // Update is called once per frame

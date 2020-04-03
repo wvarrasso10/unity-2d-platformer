@@ -27,6 +27,15 @@ public class Player : MonoBehaviour
         currentHealth -= damage;
         healthBar.SetHealth(currentHealth);
     }
+    public void addHealth(int healthAmount)
+    {
+        currentHealth += healthAmount;
+        if(currentHealth >= maxHealth)
+        {
+            currentHealth = maxHealth;
+        }
+        healthBar.SetHealth(currentHealth);
+    }
     void OnCollisionEnter2D(Collision2D col)
     {
         if (col.gameObject.tag.Equals("FlamingSkull"))
@@ -35,7 +44,7 @@ public class Player : MonoBehaviour
         }
         if (col.gameObject.tag.Equals("Goblin"))
         {
-            TakeDamage(20);
+            TakeDamage(0);
         }
         if (col.gameObject.tag.Equals("Spikes"))
         {
