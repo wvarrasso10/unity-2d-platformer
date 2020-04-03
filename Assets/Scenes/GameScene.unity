@@ -2057,6 +2057,7 @@ GameObject:
   - component: {fileID: 723693438}
   - component: {fileID: 723693441}
   - component: {fileID: 723693445}
+  - component: {fileID: 723693437}
   m_Layer: 9
   m_Name: Goblin1
   m_TagString: Goblin
@@ -2064,6 +2065,22 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!58 &723693437
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 723693436}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: -0.007619489, y: -0.03258367}
+  serializedVersion: 2
+  m_Radius: 0.37062898
 --- !u!50 &723693438
 Rigidbody2D:
   serializedVersion: 4
@@ -2213,7 +2230,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 723693436}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 105.26, y: 10.93, z: 0}
+  m_LocalPosition: {x: 114.4, y: 10.93, z: 0}
   m_LocalScale: {x: 0.9947916, y: 0.9947916, z: 0.9947916}
   m_Children:
   - {fileID: 1298642526}
@@ -3973,7 +3990,7 @@ SpriteRenderer:
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 0.56, y: 1.06}
+  m_Size: {x: 0.72, y: 1.06}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 0

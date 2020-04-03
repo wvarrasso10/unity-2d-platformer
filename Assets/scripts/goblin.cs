@@ -51,7 +51,15 @@ public class goblin : MonoBehaviour
             walk = true;
             animator.SetBool("walk", walk);
         }
+    }
+    void OnTriggerEnter2D(Collider2D col)
+    {
 
+        if (col.gameObject.tag.Equals("Player"))
+        {
+            
+            animator.SetTrigger("attack");
+        }
 
     }
 }

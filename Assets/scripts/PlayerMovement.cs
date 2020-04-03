@@ -60,7 +60,6 @@ void Update()
 
                 if (enemy.gameObject.tag.Equals("Goblin"))
                     enemy.GetComponent<goblin>().TakeDamage(attackDamage);
-
             }
         }
     }
