@@ -8,6 +8,7 @@ TagManager:
   - Spikes
   - FlamingSkull
   - Goblin
+  - Boss
   layers:
   - Default
   - TransparentFX

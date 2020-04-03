@@ -50,6 +50,10 @@ public class Player : MonoBehaviour
         {
             TakeDamage(100);
         }
+        if (col.gameObject.tag.Equals("Boss"))
+        {
+            TakeDamage(0);
+        }
 
         if (currentHealth <= 0)
         {
