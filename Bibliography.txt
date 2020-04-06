@@ -1,0 +1,47 @@
+Credits 
+
+Game Art:        
+Goblin/Imp Boss/ 
+URL: 
+https://opengameart.org/users/williamthompson
+Artist:    
+William Thompson
+
+Game Art:
+Flaming skull
+URL:  
+https://opengameart.org/users/redshrike?page=2
+Artist:    
+Stephen Challenger
+
+Medieval Pixel Art Assets Package:
+Game Art:
+background tiles 
+Torches/Doors/Windows/Chains/Shield prefabs
+URL
+https://assetstore.unity.com/packages/2d/environments/medieval-pixel-art-asset-free-130131#description   
+Artist:
+Blackspire
+
+My Game Art:
+Heart sprite/Sword prefab for decorations/Spikes 
+Artist: 
+Wesley Varrasso
+
+Sounds: 
+url
+https://soundimage.org/dark-ominous/  
+Artist:
+Eric Matyas          
+
+Code:
+Enemy AI 
+A* Pathfinding Project
+https://arongranberg.com/astar/
+Aron Granberg
+
+Font: 
+url
+https://www.dafont.com/black-family.font 
+Artist 
+Paul Lloyd
