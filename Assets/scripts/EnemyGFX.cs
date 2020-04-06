@@ -6,7 +6,7 @@ using Pathfinding;
 public class EnemyGFX : MonoBehaviour
 {
     public AIPath aiPath;
-    public int maxHealth = 100;
+    public int maxHealth = 50;
     int currentHealth;
     public GameObject enemy , heart;
     // Start is called before the first frame update

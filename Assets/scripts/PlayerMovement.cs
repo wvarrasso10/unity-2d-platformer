@@ -14,10 +14,13 @@ public class PlayerMovement : MonoBehaviour
     public float attackRange = .5f;
     public Transform attackPoint;
     public LayerMask enemyLayers;
-    public int attackDamage = 10;
-    
-// Update is called once per frame
-void Update()
+    public int attackDamage = 20;
+    public int attackDamageGoblin = 15;
+    public int attackDamageBoss = 10;
+
+
+    // Update is called once per frame
+    void Update()
     {
         animator.SetFloat("speed", Mathf.Abs(horizontalMove));
         horizontalMove = Input.GetAxisRaw("Horizontal") * runSpeed;
@@ -59,10 +62,10 @@ void Update()
                     enemy.GetComponent<EnemyGFX>().TakeDamage(attackDamage);
 
                 if (enemy.gameObject.tag.Equals("Goblin"))
-                    enemy.GetComponent<goblin>().TakeDamage(attackDamage);
+                    enemy.GetComponent<goblin>().TakeDamage(attackDamageGoblin);
 
                 if (enemy.gameObject.tag.Equals("Boss"))
-                    enemy.GetComponent<Boss>().TakeDamage(attackDamage);
+                    enemy.GetComponent<Boss>().TakeDamage(attackDamageBoss);
             }
         }
     }

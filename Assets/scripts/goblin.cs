@@ -7,7 +7,7 @@ public class goblin : MonoBehaviour
 {
     public AIPath aiPath;
     public Animator animator;
-    public int maxHealth = 100;
+    public int maxHealth = 75;
     int currentHealth;
     public GameObject enemy;
     bool walk ;

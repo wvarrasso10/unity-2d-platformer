@@ -44,7 +44,7 @@ public class Player : MonoBehaviour
         }
         if (col.gameObject.tag.Equals("Goblin"))
         {
-            TakeDamage(0);
+            TakeDamage(20);
         }
         if (col.gameObject.tag.Equals("Spikes"))
         {
@@ -52,7 +52,7 @@ public class Player : MonoBehaviour
         }
         if (col.gameObject.tag.Equals("Boss"))
         {
-            TakeDamage(0);
+            TakeDamage(25);
         }
 
         if (currentHealth <= 0)
