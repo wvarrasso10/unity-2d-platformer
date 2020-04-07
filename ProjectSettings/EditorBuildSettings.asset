@@ -17,4 +17,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/HardDifficulty.unity
     guid: a213f39f428191e46b64f4bf91e182e7
+  - enabled: 1
+    path: Assets/Scenes/Credits.unity
+    guid: 2f4773b6b615e22488516987cc95051a
   m_configObjects: {}

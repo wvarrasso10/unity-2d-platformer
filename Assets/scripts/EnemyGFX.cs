@@ -8,7 +8,9 @@ public class EnemyGFX : MonoBehaviour
     public AIPath aiPath;
     public int maxHealth = 50;
     int currentHealth;
-    public GameObject enemy , heart;
+    public GameObject enemy;
+    public bool drops;
+    public GameObject theDrop;
     // Start is called before the first frame update
     void Start()
     {
@@ -28,6 +30,8 @@ public class EnemyGFX : MonoBehaviour
     public void Die()
     {
         GameObject.Destroy(enemy);
+        if (drops) Instantiate(theDrop, transform.position, transform.rotation);
+        
     }
     // Update is called once per frame
     void Update()
