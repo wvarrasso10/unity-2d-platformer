@@ -20,10 +20,10 @@ public class ExitDoor : MonoBehaviour
         Scene scene = SceneManager.GetActiveScene();
         if (col.gameObject.tag.Equals("Player"))
         {
-            Debug.Log("here");
+            
             if (scene.name == "GameScene")
             {
-                Debug.Log("here2");
+                
                 SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 3);
             }
             else if (scene.name == "MeduimDifficulty")

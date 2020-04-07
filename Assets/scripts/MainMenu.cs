@@ -9,7 +9,6 @@ public class MainMenu : MonoBehaviour
     
     public void PlayGame()
     {
-        Debug.Log("here");
         if (scene == 1)
         {
             SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
