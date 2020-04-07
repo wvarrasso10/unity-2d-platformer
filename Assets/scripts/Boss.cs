@@ -8,7 +8,7 @@ public class Boss : MonoBehaviour
     public Animator animator;
     public int maxHealth = 10;
     int currentHealth;
-    public GameObject enemy;
+    public GameObject enemy,blood;
     bool walk;
     public bool drops;
     public GameObject theDrop;
@@ -26,6 +26,7 @@ public class Boss : MonoBehaviour
         currentHealth -= damage;
         if (currentHealth <= 0)
         {
+            Instantiate(blood, transform.position, Quaternion.identity);
             Die();
         }
     }

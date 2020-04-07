@@ -9,7 +9,7 @@ public class goblin : MonoBehaviour
     public Animator animator;
     public int maxHealth = 75;
     int currentHealth;
-    public GameObject enemy;
+    public GameObject enemy, blood;
     bool walk ;
     public bool drops;
     public GameObject theDrop; 
@@ -32,7 +32,7 @@ public class goblin : MonoBehaviour
     }
     public void Die()
     {
-        
+        Instantiate(blood, transform.position, Quaternion.identity);
         GameObject.Destroy(enemy);
         if (drops) Instantiate(theDrop, transform.position, transform.rotation);
     }

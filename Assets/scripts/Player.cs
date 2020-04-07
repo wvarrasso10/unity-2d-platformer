@@ -9,7 +9,7 @@ public class Player : MonoBehaviour
     public int currentHealth;
     public HealthBar healthBar;
     public bool dead;
-    public GameObject gameOverText, restartButton;
+    public GameObject gameOverText, restartButton,blood;
     // Start is called before the first frame update
     void Start()
     {
@@ -61,6 +61,7 @@ public class Player : MonoBehaviour
 
         if (currentHealth <= 0)
         {
+            Instantiate(blood, transform.position, Quaternion.identity);
             animator.SetTrigger("dead");
             gameOverText.SetActive(true);
             restartButton.SetActive(true);

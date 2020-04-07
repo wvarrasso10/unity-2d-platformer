@@ -10,7 +10,7 @@ public class EnemyGFX : MonoBehaviour
     int currentHealth;
     public GameObject enemy;
     public bool drops;
-    public GameObject theDrop;
+    public GameObject theDrop,blood;
     // Start is called before the first frame update
     void Start()
     {
@@ -24,6 +24,7 @@ public class EnemyGFX : MonoBehaviour
         currentHealth -= damage;
         if (currentHealth <= 0)
         {
+            Instantiate(blood, transform.position, Quaternion.identity);
             Die();
         }
     }

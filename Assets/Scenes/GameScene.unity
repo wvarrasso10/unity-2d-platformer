@@ -791,6 +791,7 @@ MonoBehaviour:
   enemy: {fileID: 448227325}
   drops: 1
   theDrop: {fileID: 5861784828301554869, guid: bac72c3a5467a454bb804d0fcb1d37ae, type: 3}
+  blood: {fileID: 5503307100336647933, guid: 3d4c347c68b9b754caa735168618cb2c, type: 3}
 --- !u!114 &448227329
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2687,6 +2688,7 @@ MonoBehaviour:
   enemy: {fileID: 572128279}
   drops: 1
   theDrop: {fileID: 5861784828301554869, guid: bac72c3a5467a454bb804d0fcb1d37ae, type: 3}
+  blood: {fileID: 5503307100336647933, guid: 3d4c347c68b9b754caa735168618cb2c, type: 3}
 --- !u!114 &572128283
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3286,6 +3288,7 @@ MonoBehaviour:
   animator: {fileID: 1298642528}
   maxHealth: 100
   enemy: {fileID: 723693436}
+  blood: {fileID: 5503307100336647933, guid: 3d4c347c68b9b754caa735168618cb2c, type: 3}
   drops: 1
   theDrop: {fileID: 5861784828301554869, guid: b4973f5934af86947b2374df91be3dce, type: 3}
 --- !u!1 &731455841
@@ -4502,6 +4505,7 @@ MonoBehaviour:
   enemy: {fileID: 1097252622}
   drops: 1
   theDrop: {fileID: 5861784828301554869, guid: bac72c3a5467a454bb804d0fcb1d37ae, type: 3}
+  blood: {fileID: 5503307100336647933, guid: 3d4c347c68b9b754caa735168618cb2c, type: 3}
 --- !u!114 &1097252625
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5499,7 +5503,7 @@ Canvas:
   m_SortingBucketNormalizedSize: 0
   m_AdditionalShaderChannelsFlag: 0
   m_SortingLayerID: 1768789731
-  m_SortingOrder: 0
+  m_SortingOrder: 3
   m_TargetDisplay: 0
 --- !u!224 &1423282906
 RectTransform:
@@ -5909,6 +5913,7 @@ MonoBehaviour:
   dead: 0
   gameOverText: {fileID: 1850791355}
   restartButton: {fileID: 1565121836}
+  blood: {fileID: 5503307100336647933, guid: 3d4c347c68b9b754caa735168618cb2c, type: 3}
 --- !u!1001 &1522831977
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -6102,6 +6107,7 @@ MonoBehaviour:
   animator: {fileID: 1559376780}
   maxHealth: 100
   enemy: {fileID: 1559376775}
+  blood: {fileID: 5503307100336647933, guid: 3d4c347c68b9b754caa735168618cb2c, type: 3}
   drops: 0
   theDrop: {fileID: 5861784828301554869, guid: b4973f5934af86947b2374df91be3dce, type: 3}
 --- !u!95 &1559376780
