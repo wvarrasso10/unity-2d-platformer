@@ -40,18 +40,22 @@ public class Player : MonoBehaviour
     {
         if (col.gameObject.tag.Equals("FlamingSkull"))
         {
+            SoundManger.PlaySound("hitSound");
             TakeDamage(10);
         }
         if (col.gameObject.tag.Equals("Goblin"))
         {
+            SoundManger.PlaySound("hitSound");
             TakeDamage(20);
         }
         if (col.gameObject.tag.Equals("Spikes"))
         {
+            SoundManger.PlaySound("hitSound");
             TakeDamage(100);
         }
         if (col.gameObject.tag.Equals("Boss"))
         {
+            SoundManger.PlaySound("hitSound");
             TakeDamage(25);
         }
 
